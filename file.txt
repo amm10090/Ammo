@@ -4,7 +4,7 @@ jd_ttqdlxj.js
 jd_hx.js
 jd_pp.js
 jd_book.js
-jd_dplh0420
+jd_dplh042001.js
 jd_hmyy.js
 jd_dplh042002.js
 jd_car_exc.js
@@ -55,7 +55,8 @@ jd_zml.js
 jd_txzj_collect_item.js
 jd_unsubscribeShop.js
 jd_dd_follow_cc.js
-jd_txzj_sign_in.jsjd_malls.js
+jd_txzj_sign_in.js
+jd_malls.js
 jd_appopen.js
 jd_joy_validate.js
 jd_zjd_tool.js
@@ -172,7 +173,7 @@ m_jd_wx_collectCard.js
 jd_lzkj_signActivity2.js
 jd_supermarket_dh.js
 jd_wxUnPackingActivity.js
-d_lzkj_wxCollectionActivity.js
+jd_lzkj_wxCollectionActivity.js
 jd_lzkj_interactsaas_yqhyrh.js
 jd_shopGifts.js
 jd_health_plant.py
