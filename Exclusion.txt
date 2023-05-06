@@ -1,25 +1,31 @@
-jd_kill_ck.js
-jd_CkSeq.js
-jd_blackHome.js
-jd_CheckCK.js
-jd_appopen.js
-jd_jxmcToken.js
-jd_DailyBonus_Mod.js
-jd_unbind.js
-jd_dadoudou.js
-jd_bean_change.js
-jd_UpdateUIDtoRemark.js
-jd_wskey_logout.js
-jd_bean_info.js
-jdCookie.js
-jd_get_share_code.js
-jd_notify.js
-jd_CheckCK.js
-jd_identicaln214.py
-jdCookie.py
-jd_check_dependent.py
-jd_scripts_check_dependence.py
-jd_ql_log_scan.py
-jd_identical211.py
-jd_identical.py
-jd_wskey.py
+EXCLUDE_FILES = {
+    ".js": [
+        "jd_kill_ck.js",
+        "jd_CkSeq.js",
+        "jd_blackHome.js",
+        "jd_CheckCK.js",
+        "jd_appopen.js",
+        "jd_jxmcToken.js",
+        "jd_DailyBonus_Mod.js",
+        "jd_unbind.js",
+        "jd_dadoudou.js",
+        "jd_bean_change.js",
+        "jd_UpdateUIDtoRemark.js",
+        "jd_wskey_logout.js",
+        "jd_bean_info.js",
+        "jdCookie.js",
+        "jd_get_share_code.js",
+        "jd_notify.js",
+        "jd_CheckCK.js",
+    ],
+    ".py": [
+        "jd_identicaln214.py",
+        "jdCookie.py",
+        "jd_check_dependent.py",
+        "jd_scripts_check_dependence.py",
+        "jd_ql_log_scan.py",
+        "jd_identical211.py",
+        "jd_identical.py",
+        "jd_wskey.py",
+    ],
+}
