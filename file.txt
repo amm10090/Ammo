@@ -1,0 +1,2 @@
+jd_lzkj_wxCollectionActivity.js
+jd_cjhy_wxCollectionActivity.js
