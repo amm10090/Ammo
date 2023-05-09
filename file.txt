@@ -205,3 +205,6 @@ jd_lzkj_wxDrawActivity.js
 jd_lzkj_sevenDay.js
 jd_lzkjdz_wxTeam.js
 jd_plantBean.js
+jd_dplh_0508.js
+jd_md.js
+jd_pp.js
