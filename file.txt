@@ -207,5 +207,6 @@ jd_lzkjdz_wxTeam.js
 jd_plantBean.js
 jd_dplh_0508.js
 jd_md.js
+jd_lzkjdz.js
 jd_pp.js
 jd_comment.js
