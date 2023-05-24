@@ -31,13 +31,10 @@ jd_cjhydz_wxTeam.js
 jd_cjhy_wxDrawActivity.js
 jd_marketxxl.js
 jd_follow_shop.js
-jd_sgmh.js
 jd_wish.js
 gua_city.js
 jd_lzkj_interactsaas_qrqd.js
 jd_doTreasureRank.py
-jd_supermarket_exchange.js
-jd_captian.js
 jd_AJMH.js
 jd_wxCollectionActivity.py
 jd_share2.js
@@ -71,7 +68,6 @@ jd_fuli.js
 jd_malls.js
 jd_fans.js
 jd_fruit_task.js
-jd_cxxb_award.js
 jd_wdz.py
 jd_beauty_ex.js
 jd_cjhy_wxShopGift.js
@@ -82,14 +78,12 @@ jd_shop.js
 jd_shopLeague_opencard.py
 jd_cjhy_daily.js
 jd_openLuckBag.js
-jd_jdfactory.js
 jd_share.js
 jd_cjhy_daily.js
 jd_lzkj_daily.js
 jd_dadoudou.js
 jd_loreal_interact_ljqdysl.js
 jd_dpqd_dsb.js
-jd_fruit.js
 jd_makemoneyshop_reward.js
 jd_superBrandStar.js
 jd_wq_wxsign.js
@@ -106,7 +100,6 @@ jd_txgzyl.js
 jd_gua_MMdou_Mod.js
 jd_joy_withdraw.js
 jd_cjhy_wxCollectionActivity.js
-jd_dreamFactory.js
 jd_jdfactory_help.js
 jd_bean_home.js
 jd_wxBulidActivity.py
@@ -138,10 +131,7 @@ jd_cjhy_signActivity.js
 jd_sign_graphics.js
 jd_mpdz_car.js
 jx_sign_xd.js
-jd_cash_wx.js
 jd_cjhydz_microDz.js
-jd_cash_wx.js
-jd_superBrandXZ.js
 jd_wxShopFollow.py
 jd_m_sign.js
 jd_wxFansinter.js
@@ -154,7 +144,6 @@ jd_car_play_exchange.js
 jd_health.js
 jx_factory_automation.js
 jd_speed_redpocke.js
-jd_supermarket_ex.js
 jd_lzkj_interactsaas_gzspyl.js
 jd_wxShopGift.py
 jd_joyjd_open.js
@@ -210,3 +199,8 @@ jd_md.js
 jd_lzkjdz.js
 jd_pp.js
 jd_comment.js
+jd_dplh_052402.js
+jd_dplh_052401.js
+jd_dplh_052403.js
+jd_20zn.js
+jd_jdcxjhelp.js
