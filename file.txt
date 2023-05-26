@@ -204,3 +204,4 @@ jd_dplh_052401.js
 jd_dplh_052403.js
 jd_20zn.js
 jd_jdcxjhelp.js
+jd_cjhy_wxCollectionActivity.js
