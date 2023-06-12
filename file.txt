@@ -208,3 +208,5 @@ jd_cjhy_wxCollectionActivity.js
 jd_cxj50help.js
 jx_cxjhelp.js
 jd_cxj100help.js
+jd_dplh0610.js
+jd_a2.js
