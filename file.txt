@@ -2,6 +2,7 @@ jd_lzkj_wxCollectionActivity.js
 jd_cjhy_wxCollectionActivity.js
 jd_ttqdlxj.js
 jd_hx.js
+jd_dplh0701.js
 jd_pp.js
 jd_book.js
 jd_dplh042001.js
