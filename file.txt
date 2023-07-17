@@ -1,6 +1,7 @@
 jd_lzkj_wxCollectionActivity.js
 jd_cjhy_wxCollectionActivity.js
 jd_ttqdlxj.js
+jd_cashsign.js
 jd_zzhb.js
 jd_pp.js
 jd_joy_park_run.js
