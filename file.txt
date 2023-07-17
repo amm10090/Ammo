@@ -10,6 +10,7 @@ jd_jrsign.js
 jd_ppdt.js
 jd_twcyz.js
 jd_lzkj_ttljd_exchange.js
+jd_supermarket_exchange.js
 jd_pl.js
 jd_yy.js
 jd_yy_realme.js
