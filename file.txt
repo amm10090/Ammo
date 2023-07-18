@@ -1,5 +1,6 @@
 jd_lzkj_wxCollectionActivity.js
 jd_cjhy_wxCollectionActivity.js
+jd_fruit.js
 jd_ttqdlxj.js
 jd_cashsign.js
 jd_zzhb.js
