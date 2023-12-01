@@ -6,3 +6,5 @@ scanf("%d%d,&a,&b);
 sum=a + b;
 prinf("sum =%d/n" ,sum);
 as
+// nwe line
+sad
